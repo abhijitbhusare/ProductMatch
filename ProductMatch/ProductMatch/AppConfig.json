@@ -1,0 +1,8 @@
+{
+  "tokenbaseuri": "https://auth.dkhardware.com/",
+  "granttype": "client_credentials",
+  "clientId": "candidate1",
+  "clientsecret": "X01BvqCjkbFpsw5d1gAChjg1RrQc3c2q",
+  "scope": "products",
+  "productbaseuri": "https://dkh-c-testing-api.staging.dkhdev.com/"
+}
